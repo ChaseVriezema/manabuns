@@ -1,0 +1,10 @@
+{
+  "name": "oven-design",
+  "description": "Design-first prototyping for game designers -- visual interviews, automatic engineering decisions, autonomous builds",
+  "version": "0.1.0",
+  "author": {
+    "name": "Manabound"
+  },
+  "license": "UNLICENSED",
+  "keywords": ["prototyping", "game-design", "visual-design", "autonomous-build", "unity"]
+}
