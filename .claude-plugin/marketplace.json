@@ -1,0 +1,13 @@
+{
+  "name": "manabuns",
+  "owner": {
+    "name": "Manabound"
+  },
+  "plugins": [
+    {
+      "name": "appoven",
+      "source": "./plugins/appoven",
+      "description": ""
+    }
+  ]
+}
